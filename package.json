@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rakisasubelli/meansample/issues"
   },
-  "homepage": "https://github.com/rakisasubelli/meansample#readme"
+  "homepage": "https://github.com/rakisasubelli/meansample#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
