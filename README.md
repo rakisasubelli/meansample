@@ -1,0 +1,2 @@
+# meansample
+MEAN Application sample.
