@@ -1,0 +1,19 @@
+{
+  "name": "meansample",
+  "version": "1.0.0",
+  "description": "mean sample example",
+  "main": "app.js",
+  "scripts": {
+    "test": "https://github.com/rakisasubelli/meansample.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakisasubelli/meansample.git"
+  },
+  "author": "Ramakrishna Sasubelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakisasubelli/meansample/issues"
+  },
+  "homepage": "https://github.com/rakisasubelli/meansample#readme"
+}
